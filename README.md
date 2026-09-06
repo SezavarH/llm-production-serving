@@ -1,4 +1,4 @@
-# Portfolio Inference App - Production Ready vLLM Serving
+# Inference App - Production Ready vLLM Serving
 
 This application is a production-ready refactor of the InferTutor arena, designed to serve multimodal LLMs (specifically Qwen3-VL) using vLLM on Modal.
 
